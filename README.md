@@ -13,5 +13,15 @@ The final result should be displayed to the user in an easy-to-read list.
 
 ## How To Use
 ```
-test
+# Clone repository
+$ git clone https://github.com/kennethchong39/fetch_rewards_coding_exercise
+
+# Go into repository
+$ cd my-data
+
+# Install Dependencies
+$ npm install
+
+# Run App
+$ npm start
 ```
