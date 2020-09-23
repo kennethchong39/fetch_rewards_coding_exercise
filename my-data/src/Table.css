@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+h1 {
+  color: #ffa500;
+  font-size: 2.7rem;
+  margin-bottom: 10px;
+}
+
+table {
+  border: solid 1px #ddeeee;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font: Arial, sans-serif;
+  font-size: 1rem;
+}
+
+table thead th {
+  background-color: #ffa500;
+  border: solid 1px #ddeeee;
+  color: #000;
+  padding: 15px 50px 15px 10px;
+  text-align: left;
+}
+
+table tbody td {
+  border: solid 1px #ddeeee;
+  color: #333;
+  padding: 15px 50px 15px 10px;
+  text-align: left;
+}
+
+button {
+  margin: 10px 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  padding: 5px 12px;
+  border: solid 1px #ddeeee;
+}
