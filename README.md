@@ -1,1 +1,2 @@
-# fetch_rewards_coding_exercise
+# Fetch Rewards Exercise
+
