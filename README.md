@@ -17,6 +17,7 @@ The final result should be displayed to the user in an easy-to-read list.
 $ git clone https://github.com/kennethchong39/fetch_rewards_coding_exercise
 
 # Go into repository
+$ cd fetch_rewards_coding_exercise
 $ cd my-data
 
 # Install Dependencies
