@@ -18,7 +18,7 @@ function Table() {
         const data = await response.json();
 
         // filter out name with null or empty person
-        const filterData = data.filter((d) => Boolean(d.name))
+        const filterData = data.filter((d) => d.name)
         const sorted = filterData.sort((a, b) => {
             const compareByListId = a.listId - b.listId;
 
