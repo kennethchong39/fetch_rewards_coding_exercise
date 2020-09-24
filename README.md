@@ -26,3 +26,7 @@ $ npm install
 # Run App
 $ npm start
 ```
+
+## App Walkthrough GIF
+
+<img src="http://g.recordit.co/0DsTFGM4uc.gif"/><br>
